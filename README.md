@@ -1,2 +1,3 @@
 # Hello-world
-I am going to learn coding
+
+I am going to learn coding, to develop my skills
